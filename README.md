@@ -14,21 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am 4+ years experienced frontend developer. Also, I am fully capable and willing to deliver high quality solutions. I have most used frontend skill and you can see that from my portfolio.
 
-Web development skills:
-
-• Frontend skills: HTML5, CSS3, SASS, Bootstrap, JavaScript (ES6 +) , jQuery, Ajax, React, Redux(Redux Toolkit), React Native
-• Backend skills: PHP, Laravel
-• Database: MySQL, Oracle
-• Good at: Figma, Adobe XD
 
 <br />
-<hr />
 <br />
 
 
 ### Connect with me:
+
+<br />
 
 [<img align="left" alt="Jamal Huseynov | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](https://www.linkedin.com/in/camal-huseynov-442694132/)
 
@@ -38,10 +32,11 @@ Web development skills:
 
 <br />
 <br />
-<hr />
 <br />
 
 ### Languages and Tools:
+
+<br />
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -57,10 +52,7 @@ Web development skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 <br />
-<hr />
 <br />
 <img  align="left"  alt="Jamal Huseynov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jmlhsynv&show_icons=true&hide_border=true&theme=radical" />
-
-<br /><br /><br />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jmlhsynv&layout=compact&theme=radical" />
