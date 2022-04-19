@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+<hr />
+<br />
 
 
 ### Connect with me:
@@ -23,10 +26,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Jamal Huseynov | Instagram" width="30px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />](https://www.instagram.com/jmlhsynv/)
 
 [<img align="left" alt="Jamal Huseynov | Facebook" width="30px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />](https://www.facebook.com/jmlhsynv)
-
-
 <br />
-
+<hr />
+<br />
 ### Languages and Tools:
 
 <div>
@@ -42,10 +44,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-
-
 <br />
+<hr />
 <br />
 <img  align="left"  alt="Jamal Huseynov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jmlhsynv&show_icons=true&hide_border=true&theme=radical" />
 
