@@ -56,12 +56,8 @@ Here are some ideas to get you started:
 </div>
 <br />
 <br />
-<div>
-<img  align="left"  alt="Jamal Huseynov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jmlhsynv&show_icons=true&hide_border=true&theme=radical" />
-</div>
 
-<br />
-<div>
+<img  align="left"  alt="Jamal Huseynov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jmlhsynv&show_icons=true&hide_border=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jmlhsynv&layout=compact&theme=radical" />
 
-</div>
+
