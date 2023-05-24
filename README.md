@@ -53,11 +53,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>
 </div>
 <br />
 <br />
 
-<img  align="left"  alt="Jamal Huseynov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jmlhsynv&show_icons=true&hide_border=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jmlhsynv&layout=compact&theme=radical" />
 
 
